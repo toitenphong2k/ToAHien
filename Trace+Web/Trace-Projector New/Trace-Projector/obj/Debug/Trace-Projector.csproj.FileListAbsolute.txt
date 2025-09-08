@@ -1,0 +1,285 @@
+D:\2.Project\Trace-Projector\Trace-Projector\bin\Debug\Trace-Projector.exe.config
+D:\2.Project\Trace-Projector\Trace-Projector\bin\Debug\Trace-Projector.exe
+D:\2.Project\Trace-Projector\Trace-Projector\bin\Debug\Trace-Projector.pdb
+D:\2.Project\Trace-Projector\Trace-Projector\obj\Debug\Trace-Projector.csprojResolveAssemblyReference.cache
+D:\2.Project\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.frmMain.resources
+D:\2.Project\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.Properties.Resources.resources
+D:\2.Project\Trace-Projector\Trace-Projector\obj\Debug\Trace-Projector.csproj.GenerateResource.Cache
+D:\2.Project\Trace-Projector\Trace-Projector\obj\Debug\Trace-Projector.exe
+D:\2.Project\Trace-Projector\Trace-Projector\obj\Debug\Trace-Projector.pdb
+E:\Project\Trace-Projector\Trace-Projector\bin\Debug\Trace-Projector.exe.config
+E:\Project\Trace-Projector\Trace-Projector\bin\Debug\Trace-Projector.exe
+E:\Project\Trace-Projector\Trace-Projector\bin\Debug\Trace-Projector.pdb
+E:\Project\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.frmMain.resources
+E:\Project\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.Properties.Resources.resources
+E:\Project\Trace-Projector\Trace-Projector\obj\Debug\Trace-Projector.csproj.GenerateResource.cache
+E:\Project\Trace-Projector\Trace-Projector\obj\Debug\Trace-Projector.csproj.CoreCompileInputs.cache
+E:\Project\Trace-Projector\Trace-Projector\obj\Debug\Trace-Projector.exe
+E:\Project\Trace-Projector\Trace-Projector\obj\Debug\Trace-Projector.pdb
+E:\Project\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.Form2.resources
+E:\Project\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.Form3.resources
+E:\Project\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.frmAdjust.resources
+E:\Project\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.frmMenu.resources
+E:\Project\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.frmModelSetting.resources
+E:\Project\Trace-Projector\Trace-Projector\obj\Debug\Trace-Projector.csprojAssemblyReference.cache
+E:\Project\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.frm3Part.resources
+E:\Project\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.frmAdjustRoom.resources
+E:\Project\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.FrmVisualCheck.resources
+E:\Project\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.FrmVisualCheck2.resources
+E:\Project\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.frmaccessory.resources
+E:\Project\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.frmConfrim.resources
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\bin\Debug\Trace-Projector.exe.config
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\bin\Debug\Trace-Projector.exe
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\bin\Debug\Trace-Projector.pdb
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\obj\Debug\Trace-Projector.csprojAssemblyReference.cache
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.frm3Part.resources
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.Form3.resources
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.Form2.resources
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.frmMain.resources
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.frmaccessory.resources
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.frmAdjust.resources
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.frmAdjustRoom.resources
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.frmConfrim.resources
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.frmMenu.resources
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.frmModelSetting.resources
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.FrmVisualCheck2.resources
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.FrmVisualCheck.resources
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\obj\Debug\Trace_Projector.Properties.Resources.resources
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\obj\Debug\Trace-Projector.csproj.GenerateResource.cache
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\obj\Debug\Trace-Projector.csproj.CoreCompileInputs.cache
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\obj\Debug\Trace-Projector.exe
+C:\Users\70K6885\Documents\Softros LAN Messenger\IT - Hien(Mr) - 2020 February 7 (1)\Trace-Projector\Trace-Projector\obj\Debug\Trace-Projector.pdb
+E:\Project\Trace-Projector New\Trace-Projector\bin\Debug\Trace-Projector.exe.config
+E:\Project\Trace-Projector New\Trace-Projector\bin\Debug\Trace-Projector.exe
+E:\Project\Trace-Projector New\Trace-Projector\bin\Debug\Trace-Projector.pdb
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csprojAssemblyReference.cache
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frm3Part.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.Form3.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.Form2.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMain.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmaccessory.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAdjust.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAdjustRoom.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmConfrim.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMenu.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmModelSetting.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.FrmVisualCheck2.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.FrmVisualCheck.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.Properties.Resources.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.GenerateResource.cache
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.CoreCompileInputs.cache
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.exe
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.pdb
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAccessories_setting.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmTestCOM.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\bin\Debug\Trace-Projector.exe.config
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\bin\Debug\Trace-Projector.exe
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\bin\Debug\Trace-Projector.pdb
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csprojAssemblyReference.cache
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frm3Part.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.Form3.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.Form2.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMain.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAccessories_setting.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmaccessory.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAdjust.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAdjustRoom.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmConfrim.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMenu.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmModelSetting.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmTestCOM.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.FrmVisualCheck2.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.FrmVisualCheck.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.Properties.Resources.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.GenerateResource.cache
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.CoreCompileInputs.cache
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.exe
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.pdb
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmaccessory2.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmModelAccessories.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAssyHistory.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmConfrimLD.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmHistory.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.ResolveComReference.cache
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frm3PartV2.resources
+E:\Project\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmError.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.ResolveComReference.cache
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frm3PartV2.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmaccessory2.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAssyHistory.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmConfrimLD.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmError.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmHistory.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmModelAccessories.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAssy3.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterCheckNotLen.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterCheckNotOptical2.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmLogin.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterAccessories.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterPCBID.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterOptical.resources
+C:\Users\70K6885\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterLen.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\bin\Debug\Trace-Projector.exe.config
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\bin\Debug\Trace-Projector.exe
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\bin\Debug\Trace-Projector.pdb
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csprojAssemblyReference.cache
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.ResolveComReference.cache
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frm3PartV2.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frm3Part.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.Form3.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.Form2.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMain.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAccessories_setting.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmaccessory2.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmaccessory.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAdjust.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAdjustRoom.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAssy3.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAssyHistory.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmConfrimLD.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmConfrim.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmError.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmHistory.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmLogin.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterAccessories.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterCheckNotLen.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterCheckNotOptical2.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterLen.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterOptical.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterPCBID.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMenu.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmModelAccessories.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmModelSetting.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmTestCOM.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.FrmVisualCheck2.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.FrmVisualCheck.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.Properties.Resources.resources
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.GenerateResource.cache
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.CoreCompileInputs.cache
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.exe
+C:\Users\70K6739\Desktop\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.pdb
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\bin\Debug\Trace-Projector.exe.config
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\bin\Debug\Trace-Projector.exe
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\bin\Debug\Trace-Projector.pdb
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csprojAssemblyReference.cache
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.ResolveComReference.cache
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frm3PartV2.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frm3Part.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.Form3.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.Form2.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMain.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAccessories_setting.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmaccessory2.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmaccessory.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAdjust.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAdjustRoom.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAssy3.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAssyHistory.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmConfrimLD.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmConfrim.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmError.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmHistory.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmLogin.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterAccessories.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterCheckNotLen.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterCheckNotOptical2.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterLen.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterOptical.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterPCBID.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMenu.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmModelAccessories.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmModelSetting.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmTestCOM.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.FrmVisualCheck2.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.FrmVisualCheck.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.Properties.Resources.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.GenerateResource.cache
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.CoreCompileInputs.cache
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.exe
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.pdb
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterFCT.resources
+E:\Desktops\code suport 2020\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAddNewModel.resources
+D:\Phong\Trace-Projector New\Trace-Projector\bin\Debug\Trace-Projector.exe.config
+D:\Phong\Trace-Projector New\Trace-Projector\bin\Debug\Trace-Projector.exe
+D:\Phong\Trace-Projector New\Trace-Projector\bin\Debug\Trace-Projector.pdb
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.ResolveComReference.cache
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frm3PartV2.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frm3Part.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.Form3.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.Form2.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMain.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAccessories_setting.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmaccessory2.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmaccessory.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAddNewModel.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAdjust.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAdjustRoom.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAssy3.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAssyHistory.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmConfrimLD.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmConfrim.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmError.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmHistory.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmLogin.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterAccessories.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterCheckNotLen.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterCheckNotOptical2.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterFCT.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterLen.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterOptical.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterPCBID.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMenu.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmModelAccessories.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmModelSetting.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmTestCOM.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.FrmVisualCheck2.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.FrmVisualCheck.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.Properties.Resources.resources
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.GenerateResource.cache
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.CoreCompileInputs.cache
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.exe
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.pdb
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.AssemblyReference.cache
+D:\Phong\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.SuggestedBindingRedirects.cache
+H:\Phong\Other\Trace-Projector New\Trace-Projector\bin\Debug\Trace-Projector.exe.config
+H:\Phong\Other\Trace-Projector New\Trace-Projector\bin\Debug\Trace-Projector.exe
+H:\Phong\Other\Trace-Projector New\Trace-Projector\bin\Debug\Trace-Projector.pdb
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.AssemblyReference.cache
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.ResolveComReference.cache
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frm3PartV2.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frm3Part.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.Form3.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.Form2.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMain.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAccessories_setting.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmaccessory2.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmaccessory.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAddNewModel.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAdjust.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAdjustRoom.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAssy3.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmAssyHistory.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmConfrimLD.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmConfrim.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmError.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmHistory.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmLogin.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterAccessories.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterCheckNotLen.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterCheckNotOptical2.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterFCT.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterLen.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterOptical.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMaterPCBID.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmMenu.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmModelAccessories.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmModelSetting.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.frmTestCOM.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.FrmVisualCheck2.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.FrmVisualCheck.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace_Projector.Properties.Resources.resources
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.GenerateResource.cache
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.CoreCompileInputs.cache
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.exe
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.pdb
+H:\Phong\Other\Trace-Projector New\Trace-Projector\obj\Debug\Trace-Projector.csproj.SuggestedBindingRedirects.cache

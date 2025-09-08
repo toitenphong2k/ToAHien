@@ -1,0 +1,324 @@
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\Traceability-Hien3.dll.config
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\Traceability-Hien3.dll
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\Traceability-Hien3.pdb
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\csc.exe
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\csc.exe.config
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\csc.rsp
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\csi.exe
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\csi.rsp
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\System.AppContext.dll
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\System.Collections.Immutable.dll
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\System.IO.FileSystem.dll
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\vbc.exe
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\vbc.exe.config
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\vbc.rsp
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\VBCSCompiler.exe
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\roslyn\VBCSCompiler.exe.config
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project\Traceability-Hien3\Traceability-Hien3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project\Traceability-Hien3\Traceability-Hien3\obj\Debug\Traceability-Hien3.csprojAssemblyReference.cache
+E:\Project\Traceability-Hien3\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.CoreCompileInputs.cache
+E:\Project\Traceability-Hien3\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.CopyComplete
+E:\Project\Traceability-Hien3\Traceability-Hien3\obj\Debug\Traceability-Hien3.dll
+E:\Project\Traceability-Hien3\Traceability-Hien3\obj\Debug\Traceability-Hien3.pdb
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\Traceability-Hien3.dll.config
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\Traceability-Hien3.dll
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\Traceability-Hien3.pdb
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\csc.exe
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\csc.exe.config
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\csc.rsp
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\csi.exe
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\csi.rsp
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\System.AppContext.dll
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\System.Collections.Immutable.dll
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\System.IO.FileSystem.dll
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\System.Reflection.Metadata.dll
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\vbc.exe
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\vbc.exe.config
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\vbc.rsp
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\VBCSCompiler.exe
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\VBCSCompiler.exe.config
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\obj\Debug\Traceability-Hien3.csprojAssemblyReference.cache
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.CoreCompileInputs.cache
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.CopyComplete
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\obj\Debug\Traceability-Hien3.dll
+E:\He thong\Minh 2020\Thang 10.2020\Traceability-Hien3\Traceability-Hien3\obj\Debug\Traceability-Hien3.pdb
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\Traceability-Hien3.dll.config
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\Traceability-Hien3.dll
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\Traceability-Hien3.pdb
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\csc.exe
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\csc.exe.config
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\csc.rsp
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\csi.exe
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\csi.rsp
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\System.AppContext.dll
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\System.Collections.Immutable.dll
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\System.IO.FileSystem.dll
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\System.Reflection.Metadata.dll
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\vbc.exe
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\vbc.exe.config
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\vbc.rsp
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\VBCSCompiler.exe
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\roslyn\VBCSCompiler.exe.config
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\obj\Debug\Traceability-Hien3.csprojAssemblyReference.cache
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.CoreCompileInputs.cache
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.CopyComplete
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\obj\Debug\Traceability-Hien3.dll
+E:\Desktops\code suport 2020\Traceability-Hien3\Traceability-Hien3\obj\Debug\Traceability-Hien3.pdb
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\Traceability-Hien3.dll.config
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\Traceability-Hien3.dll
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\Traceability-Hien3.pdb
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\csc.exe
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\csc.exe.config
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\csc.rsp
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\csi.exe
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\csi.rsp
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\System.AppContext.dll
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\System.Collections.Immutable.dll
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\System.IO.FileSystem.dll
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\System.Reflection.Metadata.dll
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\vbc.exe
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\vbc.exe.config
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\vbc.rsp
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\VBCSCompiler.exe
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\VBCSCompiler.exe.config
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\obj\Debug\Traceability-Hien3.csprojAssemblyReference.cache
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.CoreCompileInputs.cache
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.CopyComplete
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\obj\Debug\Traceability-Hien3.dll
+E:\Desktops\code suport 2020\Traceability-Hien3 - website\Traceability-Hien3\obj\Debug\Traceability-Hien3.pdb
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\Traceability-Hien3.dll.config
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\Traceability-Hien3.dll
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\Traceability-Hien3.pdb
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\csc.exe
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\csc.exe.config
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\csc.rsp
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\csi.exe
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\csi.rsp
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\System.AppContext.dll
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\System.Collections.Immutable.dll
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\System.IO.FileSystem.dll
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\vbc.exe
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\vbc.exe.config
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\vbc.rsp
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\VBCSCompiler.exe
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\VBCSCompiler.exe.config
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.CoreCompileInputs.cache
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.CopyComplete
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\obj\Debug\Traceability-Hien3.dll
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\obj\Debug\Traceability-Hien3.pdb
+E:\Project\Traceability-Hien3 - website\Traceability-Hien3\obj\Debug\Traceability-Hien3.csprojAssemblyReference.cache
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\Traceability-Hien3.dll.config
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\Traceability-Hien3.dll
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\Traceability-Hien3.pdb
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\csc.exe
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\csc.exe.config
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\csc.rsp
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\csi.exe
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\csi.rsp
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\System.AppContext.dll
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\System.Collections.Immutable.dll
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\System.IO.FileSystem.dll
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\System.Reflection.Metadata.dll
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\vbc.exe
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\vbc.exe.config
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\vbc.rsp
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\VBCSCompiler.exe
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\roslyn\VBCSCompiler.exe.config
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.CoreCompileInputs.cache
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.CopyComplete
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\obj\Debug\Traceability-Hien3.dll
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\obj\Debug\Traceability-Hien3.pdb
+F:\04.CODE CODE\04.Microware\Traceability-Hien3 - website\Traceability-Hien3\obj\Debug\Traceability-Hien3.csprojAssemblyReference.cache
+Y:\Projector-Trace\Traceability-Hien3\bin\Traceability-Hien3.dll.config
+Y:\Projector-Trace\Traceability-Hien3\bin\Traceability-Hien3.dll
+Y:\Projector-Trace\Traceability-Hien3\bin\Traceability-Hien3.pdb
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\csc.exe
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\csc.exe.config
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\csc.rsp
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\csi.exe
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\csi.rsp
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\System.AppContext.dll
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\System.Collections.Immutable.dll
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\System.IO.FileSystem.dll
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\System.Reflection.Metadata.dll
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\vbc.exe
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\vbc.exe.config
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\vbc.rsp
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\VBCSCompiler.exe
+Y:\Projector-Trace\Traceability-Hien3\bin\roslyn\VBCSCompiler.exe.config
+Y:\Projector-Trace\Traceability-Hien3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\Projector-Trace\Traceability-Hien3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\Projector-Trace\Traceability-Hien3\obj\Debug\Traceability-Hien3.csprojAssemblyReference.cache
+Y:\Projector-Trace\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.CoreCompileInputs.cache
+Y:\Projector-Trace\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.CopyComplete
+Y:\Projector-Trace\Traceability-Hien3\obj\Debug\Traceability-Hien3.dll
+Y:\Projector-Trace\Traceability-Hien3\obj\Debug\Traceability-Hien3.pdb
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\Traceability-Hien3.dll.config
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\Traceability-Hien3.dll
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\Traceability-Hien3.pdb
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\csc.exe
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\csc.exe.config
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\csc.rsp
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\csi.exe
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\csi.rsp
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.CSharp.Core.targets
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\System.AppContext.dll
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\System.Collections.Immutable.dll
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\System.IO.FileSystem.dll
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\System.Reflection.Metadata.dll
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\vbc.exe
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\vbc.exe.config
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\vbc.rsp
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\VBCSCompiler.exe
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\roslyn\VBCSCompiler.exe.config
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.AssemblyReference.cache
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.CoreCompileInputs.cache
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.CopyComplete
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\obj\Debug\Traceability-Hien3.dll
+\\10.92.184.24\WebApp\Projector-Trace\Traceability-Hien3\obj\Debug\Traceability-Hien3.pdb
+Z:\Projector-Trace\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.AssemblyReference.cache
+Z:\Projector-Trace\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.CoreCompileInputs.cache
+Z:\Projector-Trace\Traceability-Hien3\bin\Traceability-Hien3.dll.config
+Z:\Projector-Trace\Traceability-Hien3\bin\Traceability-Hien3.dll
+Z:\Projector-Trace\Traceability-Hien3\bin\Traceability-Hien3.pdb
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\csc.exe
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\csc.exe.config
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\csc.rsp
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\csi.exe
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\csi.rsp
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\System.AppContext.dll
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\System.Collections.Immutable.dll
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\System.IO.FileSystem.dll
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\vbc.exe
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\vbc.exe.config
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\vbc.rsp
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\VBCSCompiler.exe
+Z:\Projector-Trace\Traceability-Hien3\bin\roslyn\VBCSCompiler.exe.config
+Z:\Projector-Trace\Traceability-Hien3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Projector-Trace\Traceability-Hien3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Projector-Trace\Traceability-Hien3\obj\Debug\Traceability-Hien3.csproj.CopyComplete
+Z:\Projector-Trace\Traceability-Hien3\obj\Debug\Traceability-Hien3.dll
+Z:\Projector-Trace\Traceability-Hien3\obj\Debug\Traceability-Hien3.pdb
