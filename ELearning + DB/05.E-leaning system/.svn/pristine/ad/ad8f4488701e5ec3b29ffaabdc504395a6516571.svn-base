@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Remider User Join Training</title>
+</head>
+<body>
+    <div style="float:left; font-family: Arial; font-size:13px">
+        <p>
+
+            Thân gửi bạn <b> [ <a>&nbsp;FullName</a> ] </b> – Mã nhân viên số <b> [ UserName ] </b><br />
+            <br />
+            Đây là email được gửi từ hệ thống e-learning của công ty TNHH PSNV! <br />
+            <br />
+            Sẽ chỉ tốn một chút thời gian và công sức nữa để bạn hoàn thành nốt khóa học <b>[CourseName]</b><br />
+            <br />
+            Hãy cố gắng sắp xếp công việc và thời gian bởi khóa học sẽ bị đóng lại sau <b> [RemiderDate] ngày</b> nữa.<br />
+            <br />
+            Khi đến hạn, nếu bạn chưa hoàn thành quá trình học của mình trên hệ thống, bạn sẽ bị đánh giá là không đạt và không thể học lại.<br />
+            <br />
+            Do vậy, xin bạn vui lòng hoàn thành khóa học của mình trong thời gian sớm nhất. <br />
+            <br />
+            Chúng tôi trân trọng những nỗ lực của bạn và chúc bạn hoàn thành khóa học thành công. <br />
+            <br />
+           
+
+
+        </p>
+        <p>
+            *******************************<br />
+            PSNV – tạo ra con người trước khi tạo ra sản phẩm<br />
+            <br />
+            Cùng nhau, chúng ta tạo nên thế giới tốt đẹp hơn! <br />
+            *******************************
+        </p>
+    </div>
+    </body>
+</html>
