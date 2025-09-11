@@ -1,0 +1,59 @@
+﻿<%@ Master Language="VB" CodeFile="Site.master.vb" Inherits="Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>List Files Training</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <%--<asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>--%>
+    <link href="Styles/sinorcaish-screen.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/CustomStyles.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+            </asp:ScriptManager>
+        <%--<asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>--%>
+        <!-- ======== Header ======== -->
+        <div id="header">
+            <div class="left">
+                PSNV Computer-Tablet System
+            </div>
+            <div class="right">
+                <%=DateTime.Now.ToShortDateString()%>
+            </div>
+            <div class="subheader">
+                <em>♫♬ Hello ♬♫</em>
+            </div>
+        </div>
+
+        <!-- ======== Left Sidebar ======== -->
+      <%--  <div id="sidebar">
+            <div>
+                <ul>
+                    <li><a href="ListFilesCS.aspx">List Files</a></li>
+                </ul>
+            </div>
+        </div>--%>
+
+        <!-- ======== Main Content ======== -->
+        <div id="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <!-- ======== Footer ======== -->
+
+        <div id="footer">
+            ASP.NET application designed by <a href="#">PSNV-IT</a>.
+            Website design by <a href="#">PSNV-IT</a>.
+        </div>
+
+    </form>
+</body>
+</html>
